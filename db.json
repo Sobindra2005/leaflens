@@ -63,44 +63,5 @@
         "sideEffects": ["May cause heartburn in some individuals"],
         "climate": ["Tropical", "Subtropical"],
         "difficulty": "medium"
-    },
-    {
-        "id": 6,
-        "name": "Peppermint",
-        "scientificName": "Mentha × piperita",
-        "description": "Hybrid mint known for its cooling sensation and digestive benefits.",
-        "image": "https://images.unsplash.com/photo-1593950442069-24f1899e06b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
-        "category": "Herb",
-        "uses": ["Digestive aid", "Headache relief", "Aromatherapy"],
-        "preparations": ["Tea", "Essential oil", "Fresh leaves"],
-        "sideEffects": ["May cause heartburn in some individuals"],
-        "climate": ["Temperate", "Moist"],
-        "difficulty": "easy"
-    },
-    {
-        "id": 7,
-        "name": "Echinacea",
-        "scientificName": "Echinacea purpurea",
-        "description": "Flowering plant commonly used to boost the immune system.",
-        "image": "https://images.unsplash.com/photo-1597262975002-c5c3b14bbd62?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
-        "category": "Flower",
-        "uses": ["Immune support", "Cold relief", "Anti-inflammatory"],
-        "preparations": ["Tea", "Capsules", "Tinctures"],
-        "sideEffects": ["May cause allergic reactions, especially in individuals allergic to ragweed"],
-        "climate": ["Temperate", "Prairie"],
-        "difficulty": "medium"
-    },
-    {
-        "id": 8,
-        "name": "Sage",
-        "scientificName": "Salvia officinalis",
-        "description": "Perennial herb with grayish leaves, used in cooking and traditional medicine.",
-        "image": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
-        "category": "Herb",
-        "uses": ["Cognitive enhancement", "Sore throat relief", "Antioxidant"],
-        "preparations": ["Tea", "Essential oil", "Dried leaves"],
-        "sideEffects": ["High doses may cause adverse effects due to thujone content"],
-        "climate": ["Mediterranean", "Dry"],
-        "difficulty": "easy"
     }
 ]
