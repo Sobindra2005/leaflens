@@ -4,27 +4,12 @@
         "name": "Aloe Vera",
         "scientificName": "Aloe barbadensis miller",
         "description": "Succulent plant known for its healing properties, particularly for skin conditions and burns.",
-        "image": "https://images.unsplash.com/photo-1560185007-5f0bb32023d5?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
+        "image": "https://images.unsplash.com/photo-1565964450731-27a34da777a1?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3",
         "category": "Succulent",
-        "uses": [
-            "Skin healing",
-            "Burns",
-            "Digestive health"
-        ],
-        "preparations": [
-            "Topical gel",
-            "Juice",
-            "Powder"
-        ],
-        "sideEffects": [
-            "May cause allergic reactions in some people",
-            "Not recommended during pregnancy"
-        ],
-        "climate": [
-            "Tropical",
-            "Subtropical",
-            "Indoor"
-        ],
+        "uses": ["Skin healing", "Burns", "Digestive health"],
+        "preparations": ["Topical gel", "Juice", "Powder"],
+        "sideEffects": ["May cause allergic reactions in some people", "Not recommended during pregnancy"],
+        "climate": ["Tropical", "Subtropical", "Indoor"],
         "difficulty": "easy"
     },
     {
@@ -34,24 +19,10 @@
         "description": "Golden spice with powerful anti-inflammatory and antioxidant properties.",
         "image": "https://images.unsplash.com/photo-1615485500704-8e990f9900f7?ixlib=rb-4.0.3&auto=format&fit=crop&w=2340&q=80",
         "category": "Root",
-        "uses": [
-            "Anti-inflammatory",
-            "Joint health",
-            "Immune support"
-        ],
-        "preparations": [
-            "Powder",
-            "Tea",
-            "Capsules"
-        ],
-        "sideEffects": [
-            "May interact with blood thinners",
-            "Can stain skin and clothing"
-        ],
-        "climate": [
-            "Tropical",
-            "Warm"
-        ],
+        "uses": ["Anti-inflammatory", "Joint health", "Immune support"],
+        "preparations": ["Powder", "Tea", "Capsules"],
+        "sideEffects": ["May interact with blood thinners", "Can stain skin and clothing"],
+        "climate": ["Tropical", "Warm"],
         "difficulty": "medium"
     },
     {
@@ -61,232 +32,75 @@
         "description": "Aromatic herb known for its calming and relaxing properties.",
         "image": "https://images.unsplash.com/photo-1499002238440-d264edd596ec?ixlib=rb-4.0.3&auto=format&fit=crop&w=2340&q=80",
         "category": "Herb",
-        "uses": [
-            "Anxiety relief",
-            "Sleep aid",
-            "Aromatherapy"
-        ],
-        "preparations": [
-            "Essential oil",
-            "Tea",
-            "Dried flowers"
-        ],
-        "sideEffects": [
-            "May cause skin irritation in some people"
-        ],
-        "climate": [
-            "Mediterranean",
-            "Temperate"
-        ],
+        "uses": ["Anxiety relief", "Sleep aid", "Aromatherapy"],
+        "preparations": ["Essential oil", "Tea", "Dried flowers"],
+        "sideEffects": ["May cause skin irritation in some people"],
+        "climate": ["Mediterranean", "Temperate"],
         "difficulty": "easy"
     },
     {
         "id": 4,
-        "name": "Rosemary",
-        "scientificName": "Salvia rosmarinus",
-        "description": "Woody herb with needle-like leaves and a distinct fragrance.",
-        "image": "https://images.unsplash.com/photo-1511174511562-5f63a0c6a2c1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
-        "category": "Herb",
-        "uses": [
-            "Memory boost",
-            "Digestive health",
-            "Hair growth"
-        ],
-        "preparations": [
-            "Essential oil",
-            "Tea",
-            "Fresh leaves"
-        ],
-        "sideEffects": [
-            "Can cause gastrointestinal discomfort"
-        ],
-        "climate": [
-            "Mediterranean",
-            "Warm"
-        ],
-        "difficulty": "medium"
+        "name": "Chamomile",
+        "scientificName": "Matricaria chamomilla",
+        "description": "Flowering plant often used in teas for its calming effects.",
+        "image": "https://images.unsplash.com/photo-1597262975002-c5c3b14bbd62?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
+        "category": "Flower",
+        "uses": ["Sleep aid", "Digestive health", "Anxiety relief"],
+        "preparations": ["Tea", "Essential oil", "Extracts"],
+        "sideEffects": ["May cause allergic reactions, especially in individuals allergic to ragweed"],
+        "climate": ["Temperate", "Sunny"],
+        "difficulty": "easy"
     },
     {
         "id": 5,
-        "name": "Mint",
-        "scientificName": "Mentha",
-        "description": "Refreshing herb commonly used in teas and cuisines.",
-        "image": "https://images.unsplash.com/photo-1567933035094-912c3d36d1b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
-        "category": "Herb",
-        "uses": [
-            "Digestive aid",
-            "Breath freshener",
-            "Skin cooling"
-        ],
-        "preparations": [
-            "Tea",
-            "Oil",
-            "Fresh leaves"
-        ],
-        "sideEffects": [
-            "May irritate sensitive skin"
-        ],
-        "climate": [
-            "Temperate",
-            "Subtropical"
-        ],
-        "difficulty": "easy"
+        "name": "Ginger",
+        "scientificName": "Zingiber officinale",
+        "description": "Root spice known for its digestive and anti-inflammatory properties.",
+        "image": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
+        "category": "Root",
+        "uses": ["Digestive aid", "Nausea relief", "Anti-inflammatory"],
+        "preparations": ["Tea", "Powder", "Fresh root"],
+        "sideEffects": ["May cause heartburn in some individuals"],
+        "climate": ["Tropical", "Subtropical"],
+        "difficulty": "medium"
     },
     {
         "id": 6,
-        "name": "Basil",
-        "scientificName": "Ocimum basilicum",
-        "description": "Popular aromatic herb often used in culinary dishes.",
-        "image": "https://images.unsplash.com/photo-1593950442069-24f1899e06b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
-        "category": "Herb",
-        "uses": [
-            "Stress relief",
-            "Immune support",
-            "Blood sugar regulation"
-        ],
-        "preparations": [
-            "Tea",
-            "Oil",
-            "Fresh leaves"
-        ],
-        "sideEffects": [
-            "Can lower blood sugar too much"
-        ],
-        "climate": [
-            "Tropical",
-            "Indoor"
-        ],
-        "difficulty": "easy"
-    },
-    {
-        "id": 7,
-        "name": "Ginger",
-        "scientificName": "Zingiber officinale",
-        "description": "Spicy root used in traditional medicine and cuisines.",
-        "image": "https://images.unsplash.com/photo-1615874959249-5d32c8b95d67?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
-        "category": "Root",
-        "uses": [
-            "Nausea relief",
-            "Anti-inflammatory",
-            "Digestive aid"
-        ],
-        "preparations": [
-            "Powder",
-            "Tea",
-            "Fresh root"
-        ],
-        "sideEffects": [
-            "May cause heartburn or gas"
-        ],
-        "climate": [
-            "Tropical",
-            "Warm"
-        ],
-        "difficulty": "medium"
-    },
-    {
-        "id": 8,
-        "name": "Chamomile",
-        "scientificName": "Matricaria chamomilla",
-        "description": "Soothing herb popular for its calming effects.",
-        "image": "https://images.unsplash.com/photo-1503496093655-6774fe8996b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
-        "category": "Herb",
-        "uses": [
-            "Sleep aid",
-            "Stress relief",
-            "Digestive health"
-        ],
-        "preparations": [
-            "Tea",
-            "Oil",
-            "Dried flowers"
-        ],
-        "sideEffects": [
-            "May cause allergic reactions"
-        ],
-        "climate": [
-            "Temperate",
-            "Indoor"
-        ],
-        "difficulty": "easy"
-    },
-    {
-        "id": 9,
-        "name": "Thyme",
-        "scientificName": "Thymus vulgaris",
-        "description": "Aromatic herb with culinary and medicinal uses.",
-        "image": "https://images.unsplash.com/photo-1567933035094-912c3d36d1b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
-        "category": "Herb",
-        "uses": [
-            "Cough relief",
-            "Antimicrobial",
-            "Digestive aid"
-        ],
-        "preparations": [
-            "Tea",
-            "Essential oil",
-            "Fresh leaves"
-        ],
-        "sideEffects": [
-            "May cause allergic reactions in some individuals"
-        ],
-        "climate": [
-            "Mediterranean",
-            "Temperate"
-        ],
-        "difficulty": "easy"
-    },
-    {
-        "id": 10,
-        "name": "Echinacea",
-        "scientificName": "Echinacea purpurea",
-        "description": "Flowering plant commonly used to boost the immune system.",
-        "image": "https://images.unsplash.com/photo-1597262975002-c5c3b14bbd62?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
-        "category": "Flower",
-        "uses": [
-            "Immune support",
-            "Cold relief",
-            "Anti-inflammatory"
-        ],
-        "preparations": [
-            "Tea",
-            "Capsules",
-            "Tinctures"
-        ],
-        "sideEffects": [
-            "May cause allergic reactions, especially in individuals allergic to ragweed"
-        ],
-        "climate": [
-            "Temperate",
-            "Prairie"
-        ],
-        "difficulty": "medium"
-    },
-    {
-        "id": 11,
         "name": "Peppermint",
         "scientificName": "Mentha × piperita",
         "description": "Hybrid mint known for its cooling sensation and digestive benefits.",
         "image": "https://images.unsplash.com/photo-1593950442069-24f1899e06b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
         "category": "Herb",
-        "uses": [
-            "Digestive aid",
-            "Headache relief",
-            "Aromatherapy"
-        ],
-        "preparations": [
-            "Tea",
-            "Essential oil",
-            "Fresh leaves"
-        ],
-        "sideEffects": [
-            "May cause heartburn in some individuals"
-        ],
-        "climate": [
-            "Temperate",
-            "Moist"
-        ],
+        "uses": ["Digestive aid", "Headache relief", "Aromatherapy"],
+        "preparations": ["Tea", "Essential oil", "Fresh leaves"],
+        "sideEffects": ["May cause heartburn in some individuals"],
+        "climate": ["Temperate", "Moist"],
+        "difficulty": "easy"
+    },
+    {
+        "id": 7,
+        "name": "Echinacea",
+        "scientificName": "Echinacea purpurea",
+        "description": "Flowering plant commonly used to boost the immune system.",
+        "image": "https://images.unsplash.com/photo-1597262975002-c5c3b14bbd62?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
+        "category": "Flower",
+        "uses": ["Immune support", "Cold relief", "Anti-inflammatory"],
+        "preparations": ["Tea", "Capsules", "Tinctures"],
+        "sideEffects": ["May cause allergic reactions, especially in individuals allergic to ragweed"],
+        "climate": ["Temperate", "Prairie"],
+        "difficulty": "medium"
+    },
+    {
+        "id": 8,
+        "name": "Sage",
+        "scientificName": "Salvia officinalis",
+        "description": "Perennial herb with grayish leaves, used in cooking and traditional medicine.",
+        "image": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
+        "category": "Herb",
+        "uses": ["Cognitive enhancement", "Sore throat relief", "Antioxidant"],
+        "preparations": ["Tea", "Essential oil", "Dried leaves"],
+        "sideEffects": ["High doses may cause adverse effects due to thujone content"],
+        "climate": ["Mediterranean", "Dry"],
         "difficulty": "easy"
     }
-    
 ]
