@@ -24,44 +24,5 @@
         "sideEffects": ["May interact with blood thinners", "Can stain skin and clothing"],
         "climate": ["Tropical", "Warm"],
         "difficulty": "medium"
-    },
-    {
-        "id": 3,
-        "name": "Lavender",
-        "scientificName": "Lavandula angustifolia",
-        "description": "Aromatic herb known for its calming and relaxing properties.",
-        "image": "https://images.unsplash.com/photo-1499002238440-d264edd596ec?ixlib=rb-4.0.3&auto=format&fit=crop&w=2340&q=80",
-        "category": "Herb",
-        "uses": ["Anxiety relief", "Sleep aid", "Aromatherapy"],
-        "preparations": ["Essential oil", "Tea", "Dried flowers"],
-        "sideEffects": ["May cause skin irritation in some people"],
-        "climate": ["Mediterranean", "Temperate"],
-        "difficulty": "easy"
-    },
-    {
-        "id": 4,
-        "name": "Chamomile",
-        "scientificName": "Matricaria chamomilla",
-        "description": "Flowering plant often used in teas for its calming effects.",
-        "image": "https://images.unsplash.com/photo-1597262975002-c5c3b14bbd62?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
-        "category": "Flower",
-        "uses": ["Sleep aid", "Digestive health", "Anxiety relief"],
-        "preparations": ["Tea", "Essential oil", "Extracts"],
-        "sideEffects": ["May cause allergic reactions, especially in individuals allergic to ragweed"],
-        "climate": ["Temperate", "Sunny"],
-        "difficulty": "easy"
-    },
-    {
-        "id": 5,
-        "name": "Ginger",
-        "scientificName": "Zingiber officinale",
-        "description": "Root spice known for its digestive and anti-inflammatory properties.",
-        "image": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80",
-        "category": "Root",
-        "uses": ["Digestive aid", "Nausea relief", "Anti-inflammatory"],
-        "preparations": ["Tea", "Powder", "Fresh root"],
-        "sideEffects": ["May cause heartburn in some individuals"],
-        "climate": ["Tropical", "Subtropical"],
-        "difficulty": "medium"
     }
 ]
